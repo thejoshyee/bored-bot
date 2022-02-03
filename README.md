@@ -11,3 +11,6 @@ Building a Bot that gives you ideas on what to do if you are bored. This is usin
 
 ## Preview
 <img src="https://github.com/thejoshyee/bored-bot/blob/main/bored-bot-preview.png" width="50%" />
+
+## Live Demo
+https://thejoshyee.github.io/bored-bot/
