@@ -8,3 +8,6 @@ Building a Bot that gives you ideas on what to do if you are bored. This is usin
 - CSS
 - Javascript
 - API / FETCH
+
+## Preview
+<img src="" width="50%" />
