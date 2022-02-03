@@ -10,4 +10,4 @@ Building a Bot that gives you ideas on what to do if you are bored. This is usin
 - API / FETCH
 
 ## Preview
-<img src="" width="50%" />
+<img src="https://github.com/thejoshyee/bored-bot/blob/main/bored-bot-preview.png" width="50%" />
